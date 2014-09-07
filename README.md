@@ -1,4 +1,4 @@
 prime-number-checker-android
 ============================
 
-Prime Number Checker
+© 2014 Manojit Ghosh
